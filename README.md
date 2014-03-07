@@ -1,4 +1,1 @@
-YaDNS
-=====
-
-YaDNS
+1. Copy 
